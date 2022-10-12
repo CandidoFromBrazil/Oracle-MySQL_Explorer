@@ -1,0 +1,1 @@
+SELECT Name, Continent FROM world.country WHERE Continent LIKE 'North%' ORDER BY Name LIMIT 3;

@@ -1,0 +1,1 @@
+SELECT Name, Continent, GNP FROM world.country WHERE GNP > 1000000 AND NOT (Continent = 'North%') ORDER BY GNP DESC;

@@ -1,0 +1,1 @@
+SELECT DISTINCT Name FROM world.country WHERE Name != '';

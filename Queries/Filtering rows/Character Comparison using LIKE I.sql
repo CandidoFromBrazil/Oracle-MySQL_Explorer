@@ -1,0 +1,1 @@
+SELECT Name, Government FROM world.country WHERE GovernmentForm LIKE 'Social%';

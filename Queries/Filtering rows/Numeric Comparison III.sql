@@ -1,0 +1,1 @@
+SELECT Name, LifeExpectancy FROM world.country WHERE LifeExpectancy < 40;

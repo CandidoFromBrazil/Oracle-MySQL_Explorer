@@ -1,0 +1,1 @@
+SELECT Name FROM world.country ORDER BY 1 LIMIT 3;

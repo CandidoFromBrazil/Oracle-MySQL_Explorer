@@ -1,0 +1,1 @@
+SELECT Name, GovernmentForm FROM world.country WHERE GovernmentForm = 'Socialistic Republic';

@@ -1,0 +1,1 @@
+SELECT Name, Population FROM world.country WHERE Population < 1000;

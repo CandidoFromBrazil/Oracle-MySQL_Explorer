@@ -1,0 +1,1 @@
+SELECT Name FROM world.country ORDER BY Name DESC;

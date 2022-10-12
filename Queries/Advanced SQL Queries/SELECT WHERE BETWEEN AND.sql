@@ -1,0 +1,1 @@
+SELECT Name FROM world.country WHERE Population BETWEEN 1000000 AND 2000000;

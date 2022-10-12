@@ -1,0 +1,1 @@
+SELECT ID, Name, District FROM world.city WHERE Name IN ('New York', 'Rochester', 'Syracure');

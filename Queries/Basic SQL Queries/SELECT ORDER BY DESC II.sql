@@ -1,0 +1,1 @@
+SELECT CountryCode, Language FROM world.countrylanguage ORDER BY CountryCode DESC;

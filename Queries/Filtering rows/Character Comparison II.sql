@@ -1,0 +1,1 @@
+SELECT Name, Continent FROM world.Country WHERE Continent != 'North America';

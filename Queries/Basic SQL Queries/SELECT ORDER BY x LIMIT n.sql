@@ -1,0 +1,1 @@
+SELECT * FROM world.city ORDER BY 1 LIMIT 10;

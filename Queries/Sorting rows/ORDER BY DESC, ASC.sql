@@ -1,0 +1,1 @@
+SELECT Name, Continent FROM world.country ORDER BY Continent DESC, Name ASC;

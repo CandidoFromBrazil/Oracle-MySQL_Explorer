@@ -1,0 +1,1 @@
+SELECT Name, Population FROM world.country LIMIT 20,4;

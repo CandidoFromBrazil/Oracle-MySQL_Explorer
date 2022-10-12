@@ -1,0 +1,1 @@
+SELECT CountryCode, Language FROM world.countrylanguage WHERE Language = 'Chinese' LIMIT 2;

@@ -1,0 +1,1 @@
+SELECT count(*) FROM world.country WHERE Name IS NOT NULL;

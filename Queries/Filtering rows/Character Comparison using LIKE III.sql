@@ -1,0 +1,1 @@
+SELECT Code, Name FROM world.country Where Code LIKE 'CO_';

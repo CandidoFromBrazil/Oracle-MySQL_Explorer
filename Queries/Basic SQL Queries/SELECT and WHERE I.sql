@@ -1,0 +1,1 @@
+SELECT * FROM world.city WHERE ID = 3875;

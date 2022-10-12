@@ -1,0 +1,1 @@
+SELECT Name, GNP FROM world.country ORDER BY Name ASC;
